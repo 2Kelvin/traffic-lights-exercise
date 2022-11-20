@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+    display: grid;
+    place-content: center;
+}
+
+.trafficLight {
+    border: 1px solid #777;
+    padding: 6em 10em;
+    border-radius: 20px;
+    text-align: center;
+}
+
+button {
+    padding: 1em 1.5em;
+    margin-bottom: 2em;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+h1 {
+    font-size: 3rem;
+}
